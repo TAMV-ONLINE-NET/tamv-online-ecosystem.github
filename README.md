@@ -1,3 +1,7 @@
+GitHub Readme Stats
+Get dynamically generated GitHub stats on your READMEs!
+
+Tests Passing GitHub Contributors Tests Coverage Issues GitHub pull requests OpenSSF Scorecard
 <!--
 TAMV Online Ecosystem – README
 Root Architect: Edwin Oswaldo Castillo Trejo (Anubis Villaseñor)
