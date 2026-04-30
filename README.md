@@ -1,7 +1,4 @@
-GitHub Readme Stats
-Get dynamically generated GitHub stats on your READMEs!
 
-Tests Passing GitHub Contributors Tests Coverage Issues GitHub pull requests OpenSSF Scorecard
 <!--
 TAMV Online Ecosystem – README
 Root Architect: Edwin Oswaldo Castillo Trejo (Anubis Villaseñor)
@@ -18,6 +15,44 @@ Root Architect: Edwin Oswaldo Castillo Trejo (Anubis Villaseñor)
 
 <p align="center">
   <b>MD‑X4/X5 · RDM Digital OS · Soberanía Tecnológica para Territorios LATAM</b>
+</p>
+
+---
+
+## ✅ Estado del Ecosistema TAMV
+
+<p align="center">
+
+  <!-- Tests Passing (ej. GitHub Actions) -->
+  <a href="https://github.com/tamv-online-network/tamv-online-ecosystem/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/tamv-online-network/tamv-online-ecosystem/ci.yml?label=Tests&style=for-the-badge" alt="Tests Passing" />
+  </a>
+
+  <!-- Coverage (badge manual o via CI) -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/coverage-80%25-brightgreen?style=for-the-badge" alt="Tests Coverage" />
+  </a>
+
+  <!-- Issues -->
+  <a href="https://github.com/tamv-online-network/tamv-online-ecosystem/issues">
+    <img src="https://img.shields.io/github/issues/tamv-online-network/tamv-online-ecosystem?style=for-the-badge" alt="GitHub Issues" />
+  </a>
+
+  <!-- Pull Requests -->
+  <a href="https://github.com/tamv-online-network/tamv-online-ecosystem/pulls">
+    <img src="https://img.shields.io/github/issues-pr/tamv-online-network/tamv-online-ecosystem?style=for-the-badge" alt="GitHub pull requests" />
+  </a>
+
+  <!-- Contributors -->
+  <a href="https://github.com/tamv-online-network/tamv-online-ecosystem/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/tamv-online-network/tamv-online-ecosystem?style=for-the-badge" alt="GitHub Contributors" />
+  </a>
+
+  <!-- OpenSSF Scorecard (cuando lo actives) -->
+  <a href="https://api.securityscorecards.dev/projects/github.com/tamv-online-network/tamv-online-ecosystem">
+    <img src="https://api.securityscorecards.dev/projects/github.com/tamv-online-network/tamv-online-ecosystem/badge?style=for-the-badge" alt="OpenSSF Scorecard" />
+  </a>
+
 </p>
 
 ---
